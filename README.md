@@ -8,6 +8,8 @@ By the end of this I fully expect to be able to start a project from nowt and ta
 
 ## Resources:
 
-[The tutorial used from FreeCodeCamp](youtube.com/watch?v=4UZrsTqkcW4)
+[The tutorial by John Smilga](https://www.youtube.com/watch?v=iZhV0bILFb0)
+
+[The absolute legend himself; John Smilga's channel](https://www.youtube.com/c/CodingAddict)
 
 [Base app used as starter boilerplate](https://create-react-app.dev/)
